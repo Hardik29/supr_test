@@ -12,8 +12,8 @@ export default function Home() {
     <>
     {window && 
     <SuprSendInbox
-      workspaceKey="yI0TFemFuUGi4PjH6VbY"
-      subscriberId="YjkjWSIIDYNovMtV5gXf_3JIdn2o4vrbix9mtyTw2yA"
+      workspaceKey="h56viah2ngCZspePqTzQ"
+      subscriberId="i_AppkoV2IoWaFITPJaG1jpkW85p1oNU2z8K77foWS8"
       distinctId="hg@gmail.com"
     />
     }
